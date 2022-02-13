@@ -76,7 +76,8 @@ Estás Katas solo muestran los ejercicios propuestos por LaunchX solo debera clo
 - [x] Realizar Katas subidas al 10 - Feb - 2022
 - [x] Generar Repositorio de Katas
 - [x] Push Ejercicios del 1 al 6
-- [ ] Push Ejercicios del 7 al 10
+- [x] Push Ejercicios del 7 al 9
+- [ ] Push Ejercicio 10
 
 
 Ir a issues si se presenta algun problema con la visibilidad de las Katas [open issues](https://github.com/PRONOVATEK/KatasLaunchX/issues) en caso de existir fallos ya resueltos se mostraran en esta sección 
